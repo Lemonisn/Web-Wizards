@@ -1,0 +1,6 @@
+/wizardconnect
+  /client
+  /server
+  /docs
+  README.md
+  .gitignore

@@ -29,8 +29,8 @@ s.riyaz.144@westcliff.edu
 
 - # Project Structure
 
-├── client/ # Frontend code (HTML/CSS/JS or React)
-├── server/ # Backend code (Node.js, Express, etc.)
-├── docs/ # Documentation and planning files
-├── .gitignore
-└── README.md
+ ├── client/ # Frontend code (HTML/CSS/JS or React)
+ ├── server/ # Backend code (Node.js, Express, etc.)
+ ├── docs/ # Documentation and planning files
+ ├── .gitignore
+ └── README.md

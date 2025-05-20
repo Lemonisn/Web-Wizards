@@ -17,6 +17,9 @@ v.mayakuntla.237@westcliff.edu
 Shayan Riyaz
 s.riyaz.144@westcliff.edu
 
+Aicholpon Sheralieva
+a.sheralieva.9298@westcliff.edu
+
 # Features
 
 - User Signup & Login
